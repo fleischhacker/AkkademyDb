@@ -1,0 +1,9 @@
+gen-idea
+exit
+clean
+test
+clean test
+exit
+clean
+test
+exit
